@@ -5,7 +5,7 @@ public class Caja {
 	public String idCaja;		// id (codigo de barras) qupackage camion;e identifica a la caja	
 	public String contenido;	// descripcion del contenido de la caja
 	public double peso;			// peso de la caja y su contenido
-	
+	//
 	
 	/**
 	 * @author david
